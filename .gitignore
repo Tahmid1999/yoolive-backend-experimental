@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# builds
+dist/
+coverage/
+
+# environment / secrets
+.env
+.env.local
+
+# logs and uploads
+winston/
+uploads/
+npm-debug.log*
+yarn-error.log*
+
+# misc
+.DS_Store
+Thumbs.db
+node_modules
+.env
+
+/winston
+.vercel.json
+dist
+.gitingnore
+.vscode
